@@ -1,2 +1,2 @@
-# probe-mhgcfex-3800-tmp
-temporary probe repo
+# probe
+seeded via push_files
